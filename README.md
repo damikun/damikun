@@ -6,4 +6,4 @@ Some recent articles:
 - [Fullstack app (workshop) with distributed tracing, logging and monitoring](https://dev.to/damikun/fullstack-app-workshop-with-distributed-tracing-and-monitoring-3i45)
 - [Export request traces from React SPA to backend Opentelemetry collector](https://dev.to/damikun/export-request-traces-from-react-spa-to-backend-opentelemetry-collector-4kb4)
 
-Im woring with React and Relay. I realy like graphql and im also often active under [Hotchocolate GraphQL slack](http://slack.chillicream.com/). If you have any question you can send me message there..
+Im woring with React+Typescript and Relay on frontend. .NetCore on backend and since i really like GraphQL im often active under [Hotchocolate GraphQL slack](http://slack.chillicream.com/). If you have any question you can send me message there..
