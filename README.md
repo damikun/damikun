@@ -6,3 +6,6 @@ Some recent articles:
 - [GraphQL mutation errors (union errors with interface aka 6a) with Hotchocolate GraphQL Server](https://dev.to/damikun/graphql-mutation-union-erros-6a-with-hotchocolate-graphql-server-1b70)
 - [Fullstack app (workshop) with distributed tracing, logging and monitoring](https://dev.to/damikun/fullstack-app-workshop-with-distributed-tracing-and-monitoring-3i45)
 - [Export request traces from React SPA to backend Opentelemetry collector](https://dev.to/damikun/export-request-traces-from-react-spa-to-backend-opentelemetry-collector-4kb4)
+
+Off-Programming projects:
+- [Wildlife Q1-2022](https://damikun.github.io/wildlife-q1-2022/)
