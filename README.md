@@ -8,4 +8,4 @@ Some recent articles:
 - [Export request traces from React SPA to backend Opentelemetry collector](https://dev.to/damikun/export-request-traces-from-react-spa-to-backend-opentelemetry-collector-4kb4)
 
 Off-Programming projects:
-- [Wildlife Q1-2022](https://damikun.github.io/wildlife)
+- [Wildlife-2022](https://damikun.github.io/wildlife)
