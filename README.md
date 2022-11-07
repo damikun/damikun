@@ -7,5 +7,8 @@ Some recent articles:
 - [Fullstack app (workshop) with distributed tracing, logging and monitoring](https://dev.to/damikun/fullstack-app-workshop-with-distributed-tracing-and-monitoring-3i45)
 - [Export request traces from React SPA to backend Opentelemetry collector](https://dev.to/damikun/export-request-traces-from-react-spa-to-backend-opentelemetry-collector-4kb4)
 
-Off-Programming projects:
+UnifiedEdge
+- [UnifiedEdge](https://github.com/damikun/UnifiedEdge)
+
+Off-Programming:
 - [Wildlife-2022](https://damikun.github.io/wildlife)
